@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIService", "WebAPIService\WebAPIService.csproj", "{A5E92A15-41F5-4A22-BCC6-C6B02CB94774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{31349945-8657-4550-882D-82AF86A08191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E92A15-41F5-4A22-BCC6-C6B02CB94774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E92A15-41F5-4A22-BCC6-C6B02CB94774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E92A15-41F5-4A22-BCC6-C6B02CB94774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E92A15-41F5-4A22-BCC6-C6B02CB94774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31349945-8657-4550-882D-82AF86A08191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31349945-8657-4550-882D-82AF86A08191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31349945-8657-4550-882D-82AF86A08191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31349945-8657-4550-882D-82AF86A08191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118D0B47-1552-45C7-8530-0D81C7BCD60A}
+	EndGlobalSection
+EndGlobal
